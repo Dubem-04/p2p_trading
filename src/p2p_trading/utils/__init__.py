@@ -1,0 +1,1 @@
+"""Shared general-purpose helper functions and error definitions."""
